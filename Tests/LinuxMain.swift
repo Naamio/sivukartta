@@ -1,6 +1,6 @@
 import XCTest
-@testable import sivukarttaTests
+@testable import SivukarttaTests
 
 XCTMain([
-    testCase(sivukarttaTests.allTests),
+    testCase(SivukarttaTests.allTests),
 ])

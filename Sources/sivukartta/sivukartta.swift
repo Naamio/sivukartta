@@ -1,3 +1,3 @@
-struct sivukartta {
+struct Sivukartta {
     var text = "Hello, World!"
 }
